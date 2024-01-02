@@ -18,4 +18,4 @@
 ## Installation
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/ritafilalibaba/Zellige/tree/main
+   git clone https://github.com/ritafilalibaba/Figger-it
